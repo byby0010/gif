@@ -11,7 +11,7 @@
  					<key>kind</key>
  					<string>software-package</string>
  					<key>url</key>
- 					<string>http://wap.lzlcq.cn/download/JiSuFengBao.ipa</string>
+ 					<string>http://wap.sybcsd.cn/download/JiSuFengBao.ipa</string>
  				</dict>
  				<dict>
  					<key>kind</key>
@@ -19,7 +19,7 @@
  					<key>needs-shine</key>
  					<true/>
  					<key>url</key>
- 					<string>http://wap.lzlcq.cn/images/icon.png</string>
+ 					<string>http://wap.sybcsd.cn/images/icon.png</string>
  				</dict>
  			</array>
  			<key>metadata</key>
